@@ -8,6 +8,9 @@ git init
 git add <nome-arquivo>/.
 - add os arquivos estão prontos para serem commitados
 
+git commit -m "Mensagem do Commit"
+- commit os arquivos no historico
+
 git log
 - mostra os ultimos commit, log de alterações
 
